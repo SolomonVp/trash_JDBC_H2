@@ -16,5 +16,7 @@ public class App {
 
         System.out.println(CRUDUtils.deleteStudents(1));
 
+        System.out.println("всё");
+
     }
 }
